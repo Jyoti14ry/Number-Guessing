@@ -1,2 +1,2 @@
-# number-guessing
-There is number guessing which is done in Python.
+# number-guessing Game
+There is number guessing Game which is done in Python.
